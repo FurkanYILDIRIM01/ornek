@@ -1,11 +1,14 @@
-# FirstProje
-<h1>used ones</h1>
+<h1>website</h1>
+
+Atatürk'ün cumhuriyetle ilgili sözleri
+
+<h1>kullanılan teknolojiler</h1>
 
 HTML
 CSS
 
-<h2>screen gif</h2>
+<h2>ekran görüntüsü</h2>
 
 
-![](screen gif.)# firstproje
-# website-proje01
+![](screen.gif)
+
